@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pyappdeploy:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2023-05-04T15:10:18.879813776Z"
+    description: A Helm chart for Kubernetes
+    digest: 4e3f1ae194027dcd8ccd1ca97e36a488bcf5f004fd828c9affc54213d41ff8b3
+    name: pyappdeploy
+    type: application
+    urls:
+    - https://phamdinhthien.github.io/test-helm/pyappdeploy-0.1.3.tgz
+    version: 0.1.3
+generated: "2023-05-04T15:10:18.876048488Z"
